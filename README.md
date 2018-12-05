@@ -2,6 +2,7 @@
 
 ## Build:
 cd src
+
 make
 
 ## Run server:
